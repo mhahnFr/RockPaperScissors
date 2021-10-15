@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cisailles Pierre Papier</string>
+    <string name="action_stats">État de jeu</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="lost">Tu as perdu !</string>
+    <string name="paper">Papier</string>
+    <string name="title_activity_stats">État de jeu</string>
+    <string name="to">Il est :</string>
+    <string name="won">Tu as gagné !</string>
+    <string name="scissor">Cisailles</string>
+    <string name="stone">Pierre</string>
+    <string name="draw">En suspens</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schere Stein Papier</string>
+    <string name="action_stats">Spielstände</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="draw">Unentschieden!</string>
+    <string name="lost">Du hast verloren!</string>
+    <string name="paper">Papier</string>
+    <string name="scissor">Schere</string>
+    <string name="stone">Stein</string>
+    <string name="title_activity_stats">Spielstände</string>
+    <string name="to">Es steht:</string>
+    <string name="won">Du hast gewonnen!</string>
+</resources>

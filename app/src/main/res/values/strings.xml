@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+
+    <string name="won">You\'ve won!</string>
+    <string name="lost">You\'ve lost!</string>
+    <string name="draw">It\'s a draw!</string>
+    <string name="scissor">Scissors</string>
+    <string name="stone">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="action_stats">Standings</string>
+    <string name="title_activity_stats">Standings</string>
+    <string name="to">It\'s:</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
