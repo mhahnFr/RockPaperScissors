@@ -1,4 +1,8 @@
 .gradle
+.gitignore
+*.swp
+.*~
+.idea/caches/
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
